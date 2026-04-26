@@ -20,9 +20,6 @@
 * **Acadêmico:** Cursando Análise e Desenvolvimento de Sistemas (ULBRA Torres).
 ---
 ### 📊 Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalx&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" />
-
----
 
 | Most Used Languages | Activity Graph |
 | :---: | :---: |
