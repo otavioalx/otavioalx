@@ -1,4 +1,4 @@
-# 🥋 Otávio Alexandre dos Santos | ADS Student
+#  Otávio Alexandre dos Santos
 
 <p align="left">
   <img src="https://img.shields.io/badge/Education-ADS_Student-white?style=for-the-badge&logoColor=black" />
