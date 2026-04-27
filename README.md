@@ -3,7 +3,6 @@
 ### Tech Stack & Ferramentas
 * **Desenvolvimento:** VSCode, IntelliJ, Claude Code, GitHub, Antigravity.
 * **Design & Prototipagem:** Figma (UI/UX Design).
-* **Linguagens:** Java, Python, HTML, CSS.
 * **Idiomas:** Português (Nativo) e Inglês (Intermediário - Leitura Técnica).
 
 ---
