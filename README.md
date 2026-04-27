@@ -1,9 +1,5 @@
 #  Otávio Alexandre dos Santos
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Education-ADS_Student-white?style=for-the-badge&logoColor=black" />
-</p>
-
+---
 ### Tech Stack & Ferramentas
 * **Desenvolvimento:** VSCode, IntelliJ, Claude Code, GitHub, Antigravity.
 * **Design & Prototipagem:** Figma (UI/UX Design).
