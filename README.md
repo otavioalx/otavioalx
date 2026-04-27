@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Education-ADS_Student-white?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Software_Engineering_%26_UX/UI_Design-black?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Tech Stack & Ferramentas
