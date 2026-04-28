@@ -4,7 +4,6 @@
 * **Desenvolvimento:** VSCode, IntelliJ, Claude Code, GitHub, Antigravity.
 * **Design & Prototipagem:** Figma (UI/UX Design).
 * **Idiomas:** Português (Nativo) e Inglês (Intermediário - Leitura Técnica).
-
 ---
 ### Projetos em Destaque
 * **Comparador: Sistema de Busca e Comparação de Preços:** Motor de busca com monitoramento de preço histórico e gráficos dinâmicos. Desenvolvido com foco em performance utilizando a IDE Antigravity.
