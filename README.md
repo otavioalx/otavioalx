@@ -7,7 +7,7 @@
 ---
 ### Projetos em Destaque
 * **Comparador: Sistema de Busca e Comparação de Preços:** Motor de busca com monitoramento de preço histórico e gráficos dinâmicos. Desenvolvido com foco em performance utilizando a IDE Antigravity.
-* **Academic Lab Comparator:** Projeto estruturado para consolidação de fundamentos em consumo de APIs e design de interfaces.
+* **Comparador de preços em aula:** Projeto estruturado para consolidação de fundamentos em consumo de APIs e design de interfaces.
 ---
 ### Formação atual
 * **Acadêmico:** Cursando Análise e Desenvolvimento de Sistemas (ULBRA Torres).
