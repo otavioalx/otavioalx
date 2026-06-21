@@ -1,7 +1,7 @@
 #  Otávio Alexandre dos Santos
 
 ### Tech Stack & Ferramentas
-* **Desenvolvimento:** VSCode, IntelliJ, Claude Code, GitHub, Antigravity.
+* **Desenvolvimento:** VSCode, IntelliJ, Claude Code, Antigravity.
 * **Design & Prototipagem:** Figma (UI/UX Design).
 * **Idiomas:** Português (Nativo) e Inglês (Intermediário - Leitura Técnica).
 ---
