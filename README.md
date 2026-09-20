@@ -11,8 +11,4 @@
 ---
 ### Formação atual
 * **Acadêmico:** Cursando Análise e Desenvolvimento de Sistemas (ULBRA Torres).
----
-### Estatísticas no Github
-
-<img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=otavioalx&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&hide_data_points=false&cache=0" />
 
